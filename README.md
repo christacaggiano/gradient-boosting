@@ -1,8 +1,8 @@
 # Decision Tree and Gradient Boosting Examples for Zaitlen Lab JC
 
-Inspired based on [Prediction of gestational diabetes based on nationwide electronic health records](https://www.nature.com/articles/s41591-019-0724-8#Sec1)
+Inspired by [Prediction of gestational diabetes based on nationwide electronic health records](https://www.nature.com/articles/s41591-019-0724-8#Sec1)
 
-Uses simple data collected from ABC's The Bachelor and creates decision trees and variations of a gradient boosting machine.
+Uses simple data collected from ABC's The Bachelor and uses decision trees and gradient boosting to predict the "winner" of Seasons 10-present.
 
 Conda environment specified in environment.yml
 
